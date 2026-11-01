@@ -1,0 +1,473 @@
+{
+  "fetchedAt": 1792676293.8748431,
+  "quotes": {
+    "AAPL": {
+      "symbol": "AAPL",
+      "price": 345.12,
+      "time": 1792676290,
+      "fetchedAt": 1792676292.2131636,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AAPL/"
+    },
+    "ABNB": {
+      "symbol": "ABNB",
+      "price": 173.15,
+      "time": 1792676277,
+      "fetchedAt": 1792676292.1681557,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/ABNB/"
+    },
+    "ADBE": {
+      "symbol": "ADBE",
+      "price": 257.76,
+      "time": 1792676290,
+      "fetchedAt": 1792676292.1716607,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/ADBE/"
+    },
+    "AMD": {
+      "symbol": "AMD",
+      "price": 524.525,
+      "time": 1792676291,
+      "fetchedAt": 1792676292.147167,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AMD/"
+    },
+    "AMZN": {
+      "symbol": "AMZN",
+      "price": 256.49,
+      "time": 1792676290,
+      "fetchedAt": 1792676292.1799335,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AMZN/"
+    },
+    "ASTS": {
+      "symbol": "ASTS",
+      "price": 40.0,
+      "time": 1792676290,
+      "fetchedAt": 1792676292.147167,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/ASTS/"
+    },
+    "AVGO": {
+      "symbol": "AVGO",
+      "price": 329.65,
+      "time": 1792676290,
+      "fetchedAt": 1792676292.1979399,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AVGO/"
+    },
+    "BABA": {
+      "symbol": "BABA",
+      "price": 101.75,
+      "time": 1792676291,
+      "fetchedAt": 1792676292.208609,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BABA/"
+    },
+    "BE": {
+      "symbol": "BE",
+      "price": 227.31,
+      "time": 1792676291,
+      "fetchedAt": 1792676292.413234,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BE/"
+    },
+    "BKSY": {
+      "symbol": "BKSY",
+      "price": 17.215,
+      "time": 1792676259,
+      "fetchedAt": 1792676292.4022598,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BKSY/"
+    },
+    "CAT": {
+      "symbol": "CAT",
+      "price": 717.205,
+      "time": 1792676288,
+      "fetchedAt": 1792676292.6297977,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CAT/"
+    },
+    "CELH": {
+      "symbol": "CELH",
+      "price": 28.325,
+      "time": 1792676290,
+      "fetchedAt": 1792676292.4629598,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CELH/"
+    },
+    "CGTX": {
+      "symbol": "CGTX",
+      "price": 0.7679,
+      "time": 1792676281,
+      "fetchedAt": 1792676292.4799032,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CGTX/"
+    },
+    "CRM": {
+      "symbol": "CRM",
+      "price": 245.13,
+      "time": 1792676290,
+      "fetchedAt": 1792676292.510126,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CRM/"
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "price": 227.77,
+      "time": 1792676278,
+      "fetchedAt": 1792676292.5440533,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CVX/"
+    },
+    "GOOGL": {
+      "symbol": "GOOGL",
+      "price": 330.32,
+      "time": 1792676289,
+      "fetchedAt": 1792676292.4661245,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/GOOGL/"
+    },
+    "HNST": {
+      "symbol": "HNST",
+      "price": 4.91,
+      "time": 1792676287,
+      "fetchedAt": 1792676292.6806445,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/HNST/"
+    },
+    "HOOD": {
+      "symbol": "HOOD",
+      "price": 99.72,
+      "time": 1792676291,
+      "fetchedAt": 1792676292.7133126,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/HOOD/"
+    },
+    "IONQ": {
+      "symbol": "IONQ",
+      "price": 32.13,
+      "time": 1792676291,
+      "fetchedAt": 1792676292.7090142,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/IONQ/"
+    },
+    "IREN": {
+      "symbol": "IREN",
+      "price": 26.51,
+      "time": 1792676291,
+      "fetchedAt": 1792676292.7429123,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/IREN/"
+    },
+    "MELI": {
+      "symbol": "MELI",
+      "price": 1849.87,
+      "time": 1792676252,
+      "fetchedAt": 1792676292.7467213,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/MELI/"
+    },
+    "META": {
+      "symbol": "META",
+      "price": 651.874,
+      "time": 1792676291,
+      "fetchedAt": 1792676292.7709868,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/META/"
+    },
+    "MSFT": {
+      "symbol": "MSFT",
+      "price": 529.95,
+      "time": 1792676292,
+      "fetchedAt": 1792676292.810213,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/MSFT/"
+    },
+    "NBIS": {
+      "symbol": "NBIS",
+      "price": 165.905,
+      "time": 1792676291,
+      "fetchedAt": 1792676292.9132047,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NBIS/"
+    },
+    "NEE": {
+      "symbol": "NEE",
+      "price": 79.8,
+      "time": 1792676291,
+      "fetchedAt": 1792676293.0057123,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NEE/"
+    },
+    "NET": {
+      "symbol": "NET",
+      "price": 317.755,
+      "time": 1792676292,
+      "fetchedAt": 1792676292.9466093,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NET/"
+    },
+    "NFLX": {
+      "symbol": "NFLX",
+      "price": 66.613,
+      "time": 1792676291,
+      "fetchedAt": 1792676292.9723284,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NFLX/"
+    },
+    "NOW": {
+      "symbol": "NOW",
+      "price": 154.473,
+      "time": 1792676292,
+      "fetchedAt": 1792676293.013294,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NOW/"
+    },
+    "NVDA": {
+      "symbol": "NVDA",
+      "price": 218.3,
+      "time": 1792676286,
+      "fetchedAt": 1792676293.0467496,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NVDA/"
+    },
+    "NVO": {
+      "symbol": "NVO",
+      "price": 39.39,
+      "time": 1792676290,
+      "fetchedAt": 1792676293.0724974,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NVO/"
+    },
+    "O": {
+      "symbol": "O",
+      "price": 55.755,
+      "time": 1792676284,
+      "fetchedAt": 1792676293.1466398,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/O/"
+    },
+    "ONDS": {
+      "symbol": "ONDS",
+      "price": 6.29,
+      "time": 1792676290,
+      "fetchedAt": 1792676293.1800563,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/ONDS/"
+    },
+    "OSCR": {
+      "symbol": "OSCR",
+      "price": 33.66,
+      "time": 1792676278,
+      "fetchedAt": 1792676293.2132244,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/OSCR/"
+    },
+    "PANW": {
+      "symbol": "PANW",
+      "price": 361.275,
+      "time": 1792676289,
+      "fetchedAt": 1792676293.2317653,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/PANW/"
+    },
+    "PL": {
+      "symbol": "PL",
+      "price": 13.485,
+      "time": 1792676292,
+      "fetchedAt": 1792676293.281844,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/PL/"
+    },
+    "PLTK": {
+      "symbol": "PLTK",
+      "price": 2.075,
+      "time": 1792676252,
+      "fetchedAt": 1792676293.281844,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/PLTK/"
+    },
+    "PLTR": {
+      "symbol": "PLTR",
+      "price": 202.11,
+      "time": 1792676292,
+      "fetchedAt": 1792676293.3048105,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/PLTR/"
+    },
+    "QQQM": {
+      "symbol": "QQQM",
+      "price": 293.836,
+      "time": 1792676287,
+      "fetchedAt": 1792676293.364502,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/QQQM/"
+    },
+    "RKLB": {
+      "symbol": "RKLB",
+      "price": 52.59,
+      "time": 1792676291,
+      "fetchedAt": 1792676293.4136481,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/RKLB/"
+    },
+    "SCHD": {
+      "symbol": "SCHD",
+      "price": 34.955,
+      "time": 1792676291,
+      "fetchedAt": 1792676293.463936,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/SCHD/"
+    },
+    "SHOP": {
+      "symbol": "SHOP",
+      "price": 171.58,
+      "time": 1792676292,
+      "fetchedAt": 1792676293.4805305,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/SHOP/"
+    },
+    "SKHY": {
+      "symbol": "SKHY",
+      "price": 137.87,
+      "time": 1792676290,
+      "fetchedAt": 1792676293.4805305,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/SKHY/"
+    },
+    "SOFI": {
+      "symbol": "SOFI",
+      "price": 14.925,
+      "time": 1792676292,
+      "fetchedAt": 1792676293.546643,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/SOFI/"
+    },
+    "SOXX": {
+      "symbol": "SOXX",
+      "price": 490.22,
+      "time": 1792676292,
+      "fetchedAt": 1792676293.5799465,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/SOXX/"
+    },
+    "SPOT": {
+      "symbol": "SPOT",
+      "price": 572.645,
+      "time": 1792676293,
+      "fetchedAt": 1792676293.5671122,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/SPOT/"
+    },
+    "TSLA": {
+      "symbol": "TSLA",
+      "price": 376.77,
+      "time": 1792676286,
+      "fetchedAt": 1792676293.6371193,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/TSLA/"
+    },
+    "UBER": {
+      "symbol": "UBER",
+      "price": 67.74,
+      "time": 1792676292,
+      "fetchedAt": 1792676293.7015922,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/UBER/"
+    },
+    "UEC": {
+      "symbol": "UEC",
+      "price": 7.74,
+      "time": 1792676289,
+      "fetchedAt": 1792676293.7719197,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/UEC/"
+    },
+    "USAR": {
+      "symbol": "USAR",
+      "price": 9.97,
+      "time": 1792676292,
+      "fetchedAt": 1792676293.7471342,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/USAR/"
+    },
+    "V": {
+      "symbol": "V",
+      "price": 409.47,
+      "time": 1792676292,
+      "fetchedAt": 1792676293.7765982,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/V/"
+    },
+    "VOO": {
+      "symbol": "VOO",
+      "price": 705.0,
+      "time": 1792676292,
+      "fetchedAt": 1792676293.846949,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/VOO/"
+    },
+    "VTI": {
+      "symbol": "VTI",
+      "price": 376.275,
+      "time": 1792676293,
+      "fetchedAt": 1792676293.8742392,
+      "currency": "USD",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/VTI/"
+    }
+  }
+}
